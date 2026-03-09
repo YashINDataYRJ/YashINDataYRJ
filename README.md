@@ -1,4 +1,4 @@
-# yash raj — portfolio
+# Hi, I am Yash
 
 > Data Analyst · Business Analyst · Consultant-in-training  
 > MSc Business Analytics — University of Liverpool
